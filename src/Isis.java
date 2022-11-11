@@ -31,6 +31,13 @@ public class Isis {
         } else {
             System.out.println(entero+enterito);
         }
+
+        if (!(enterito==entero)) {
+            System.out.println("Holis");
+        } else {
+            System.out.println("Negando ando");
+
+        }
     }
 
 
