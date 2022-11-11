@@ -26,6 +26,11 @@ public class Isis {
         } else {
             System.out.println("Que te pasa llave");
         }
+        if (entero!=enterito){
+            System.out.println("enteritos");
+        } else {
+            System.out.println(entero+enterito);
+        }
     }
 
 
