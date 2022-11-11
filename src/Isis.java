@@ -36,8 +36,14 @@ public class Isis {
             System.out.println("Holis");
         } else {
             System.out.println("Negando ando");
-
         }
+
+
+        Angelica angelica = new Angelica();
+        Angelica juan = new Angelica();
+        juan.apodo = "Hola";
+        System.out.println(juan.apodo);
+        System.out.println(angelica.apodo);
     }
 
 
